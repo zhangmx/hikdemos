@@ -1,0 +1,3 @@
+hikdemo/*
+!hikdemo/__init__.py
+!hikdemo/Qt_Demo.py
